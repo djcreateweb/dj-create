@@ -1,0 +1,12 @@
+{
+  "name": "DJ Create",
+  "short_name": "DJC",
+  "description": "Agencia de diseño web profesional — David Alcaraz & Jon Franklin",
+  "start_url": "https://djcreateweb.com",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080C12",
+  "theme_color": "#1B6FFF",
+  "lang": "es",
+  "icons": []
+}
